@@ -2,7 +2,7 @@
 ## Desarrollo de aplicaciones multimedia
 ### Proyectos Desarrollados
 **Proyectos en C# yXAML (Avalonia)**
-1. Gestion de boligrafos
+1. [Gestion de boligrafos](https://github.com/Pepinako99/Bindings)
 2. Almacen de lo que desea
 ## Holaaa 👋
 
