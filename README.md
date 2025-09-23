@@ -1,3 +1,9 @@
+# Proyectos 
+## Desarrollo de aplicaciones multimedia
+### Proyectos Desarrollados
+**Proyectos en C# yXAML (Avalonia)**
+1. Gestion de boligrafos
+2. Almacen de lo que desea
 ## Holaaa 👋
 
 <!--
