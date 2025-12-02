@@ -27,7 +27,6 @@ Aquí puedes encontrar mis proyectos más relevantes y recientes:
 Puedes encontrar más información sobre mí, mi experiencia y mis proyectos en mi portafolio web personal.
 
 * 🌐 **Portafolio Web (GitHub Pages):** [https://pepinako99.github.io](https://pepinako99.github.io)
-    *(**Nota:** Usando la URL que proporcionaste en tu ejemplo)*
 * 📧 **Contacto Profesional:** pedrolalandaagudo@gmail.com
 
 <br>
