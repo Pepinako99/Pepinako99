@@ -15,7 +15,6 @@ Aquí puedes encontrar mis proyectos más relevantes y recientes:
 * **[ProyectoCompleto (Android Studio)]**
     Aplicación móvil desarrollada en **Android Studio** (lenguaje Kotlin/Java) que demuestra gestión de estados y conectividad.
     🔗 [Ver Repositorio del Proyecto](https://github.com/Pepinako99/ProyectoCompletoAS) 
-    *(**Aviso:** Reemplaza esta URL con la URL real de tu repositorio "ProyectoCompleto")*
 
 * **[Proyecto Primera Evaluación (Avalonia UI)]**
     Aplicación de escritorio para la gestión de jugadores utilizando el framework **Avalonia UI** (C# .NET) y aplicando el patrón de diseño **MVVM**.
